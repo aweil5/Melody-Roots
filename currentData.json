@@ -1,0 +1,325 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 1967,
+        "features": 1
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "fucking blade",
+            "sentiment": {
+                "score": -0.923675,
+                "label": "negative"
+            },
+            "relevance": 0.704135,
+            "emotion": {
+                "sadness": 0.09361,
+                "joy": 0.00514,
+                "fear": 0.078276,
+                "disgust": 0.126656,
+                "anger": 0.78184
+            },
+            "count": 1
+        },
+        {
+            "text": "fucking clown",
+            "sentiment": {
+                "score": -0.981871,
+                "label": "negative"
+            },
+            "relevance": 0.595962,
+            "emotion": {
+                "sadness": 0.063617,
+                "joy": 0.01207,
+                "fear": 0.04899,
+                "disgust": 0.052606,
+                "anger": 0.811016
+            },
+            "count": 1
+        },
+        {
+            "text": "Aye",
+            "sentiment": {
+                "score": 0.533042,
+                "mixed": "1",
+                "label": "positive"
+            },
+            "relevance": 0.595281,
+            "emotion": {
+                "sadness": 0.102136,
+                "joy": 0.340216,
+                "fear": 0.046662,
+                "disgust": 0.312756,
+                "anger": 0.12919
+            },
+            "count": 3
+        },
+        {
+            "text": "yo' bitch",
+            "sentiment": {
+                "score": -0.97326,
+                "label": "negative"
+            },
+            "relevance": 0.570135,
+            "emotion": {
+                "sadness": 0.045062,
+                "joy": 0.104075,
+                "fear": 0.017495,
+                "disgust": 0.037366,
+                "anger": 0.770745
+            },
+            "count": 1
+        },
+        {
+            "text": "fucking earth quaker",
+            "sentiment": {
+                "score": -0.845474,
+                "label": "negative"
+            },
+            "relevance": 0.561107,
+            "emotion": {
+                "sadness": 0.419176,
+                "joy": 0.078955,
+                "fear": 0.034897,
+                "disgust": 0.03865,
+                "anger": 0.228409
+            },
+            "count": 1
+        },
+        {
+            "text": "yuh Wet",
+            "sentiment": {
+                "score": -0.439329,
+                "label": "negative"
+            },
+            "relevance": 0.559082,
+            "emotion": {
+                "sadness": 0.163134,
+                "joy": 0.192394,
+                "fear": 0.042881,
+                "disgust": 0.611494,
+                "anger": 0.028392
+            },
+            "count": 1
+        },
+        {
+            "text": "pussy up",
+            "sentiment": {
+                "score": -0.758176,
+                "label": "negative"
+            },
+            "relevance": 0.558335,
+            "emotion": {
+                "sadness": 0.155253,
+                "joy": 0.160582,
+                "fear": 0.06725,
+                "disgust": 0.011147,
+                "anger": 0.63496
+            },
+            "count": 1
+        },
+        {
+            "text": "fucking hands",
+            "sentiment": {
+                "score": -0.946477,
+                "label": "negative"
+            },
+            "relevance": 0.55294,
+            "emotion": {
+                "sadness": 0.07969,
+                "joy": 0.010894,
+                "fear": 0.040549,
+                "disgust": 0.078586,
+                "anger": 0.289121
+            },
+            "count": 1
+        },
+        {
+            "text": "gotta",
+            "sentiment": {
+                "score": -0.525945,
+                "label": "negative"
+            },
+            "relevance": 0.552511,
+            "emotion": {
+                "sadness": 0.077287,
+                "joy": 0.264936,
+                "fear": 0.02809,
+                "disgust": 0.029898,
+                "anger": 0.596264
+            },
+            "count": 1
+        },
+        {
+            "text": "yuh aye",
+            "sentiment": {
+                "score": 0.525414,
+                "label": "positive"
+            },
+            "relevance": 0.548571,
+            "emotion": {
+                "sadness": 0.077316,
+                "joy": 0.270011,
+                "fear": 0.131404,
+                "disgust": 0.238411,
+                "anger": 0.067185
+            },
+            "count": 1
+        },
+        {
+            "text": "round drum",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.547438,
+            "emotion": {
+                "sadness": 0.198383,
+                "joy": 0.110074,
+                "fear": 0.041039,
+                "disgust": 0.150889,
+                "anger": 0.256673
+            },
+            "count": 1
+        },
+        {
+            "text": "Lil Tomy D",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.525095,
+            "count": 1
+        },
+        {
+            "text": "niggas",
+            "sentiment": {
+                "score": -0.882756,
+                "label": "negative"
+            },
+            "relevance": 0.523603,
+            "emotion": {
+                "sadness": 0.434201,
+                "joy": 0.047256,
+                "fear": 0.024134,
+                "disgust": 0.076817,
+                "anger": 0.2288
+            },
+            "count": 4
+        },
+        {
+            "text": "Yuh",
+            "sentiment": {
+                "score": 0.366315,
+                "mixed": "1",
+                "label": "positive"
+            },
+            "relevance": 0.522891,
+            "emotion": {
+                "sadness": 0.125935,
+                "joy": 0.283798,
+                "fear": 0.06097,
+                "disgust": 0.415441,
+                "anger": 0.057176
+            },
+            "count": 3
+        },
+        {
+            "text": "nigga",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.520426,
+            "emotion": {
+                "sadness": 0.292522,
+                "joy": 0.138039,
+                "fear": 0.094987,
+                "disgust": 0.066685,
+                "anger": 0.077794
+            },
+            "count": 2
+        },
+        {
+            "text": "Uno Dos Tres",
+            "sentiment": {
+                "score": 0.525414,
+                "label": "positive"
+            },
+            "relevance": 0.519029,
+            "emotion": {
+                "sadness": 0.077316,
+                "joy": 0.270011,
+                "fear": 0.131404,
+                "disgust": 0.238411,
+                "anger": 0.067185
+            },
+            "count": 1
+        },
+        {
+            "text": "checks",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.51828,
+            "emotion": {
+                "sadness": 0.381624,
+                "joy": 0.096214,
+                "fear": 0.201591,
+                "disgust": 0.018405,
+                "anger": 0.076142
+            },
+            "count": 1
+        },
+        {
+            "text": "Gucci Gang",
+            "sentiment": {
+                "score": -0.863635,
+                "label": "negative"
+            },
+            "relevance": 0.514397,
+            "emotion": {
+                "sadness": 0.163702,
+                "joy": 0.418265,
+                "fear": 0.051916,
+                "disgust": 0.081562,
+                "anger": 0.100495
+            },
+            "count": 1
+        },
+        {
+            "text": "gram",
+            "sentiment": {
+                "score": -0.525945,
+                "label": "negative"
+            },
+            "relevance": 0.513983,
+            "emotion": {
+                "sadness": 0.077287,
+                "joy": 0.264936,
+                "fear": 0.02809,
+                "disgust": 0.029898,
+                "anger": 0.596264
+            },
+            "count": 1
+        },
+        {
+            "text": "day",
+            "sentiment": {
+                "score": -0.505255,
+                "label": "negative"
+            },
+            "relevance": 0.512433,
+            "emotion": {
+                "sadness": 0.105259,
+                "joy": 0.526321,
+                "fear": 0.335833,
+                "disgust": 0.010628,
+                "anger": 0.017372
+            },
+            "count": 1
+        }
+    ]
+}
